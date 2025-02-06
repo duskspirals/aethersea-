@@ -4,6 +4,7 @@
 
 #location #realm 
 
+![Pasted image 20250206104242.png](/img/user/Pasted%20image%2020250206104242.png)
 The realm of [[03 Characters/01 The Avatars/Lust (Davit De Kleine)\|Lust (Davit De Kleine)]]
 
 
