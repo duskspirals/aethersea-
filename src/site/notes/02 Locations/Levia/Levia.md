@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/02-locations/levia/levia/"}
 ---
 
-f#location #realm 
+#location #realm 
 
+![Pasted image 20250206103708.png](/img/user/Pasted%20image%2020250206103708.png)
 The realm of [[03 Characters/01 The Avatars/Envy (Cue)\|Envy (Cue)]]
 
 i imagine its like.... a lot of reds and golds, and all the cult members live weirdly extravagant relaxed lives where they kinda have the philosiphy that cue will do all the suffering for them while they go to like stupid ballroom dances and eat stupid fancy foods
