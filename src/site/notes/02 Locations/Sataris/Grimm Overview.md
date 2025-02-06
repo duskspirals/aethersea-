@@ -4,7 +4,7 @@
 
 #location #realm 
 
-![Pasted image 20250206103431.png](/img/user/Pasted%20image%2020250206103431.png)
+![Pasted image 20250206103431.png](/img/user/20%20Images/Pasted%20image%2020250206103431.png)
 
 Grimm, the realm of [[03 Characters/01 The Avatars/Wrath (Ruisuke Reinhardt)\|Wrath (Ruisuke Reinhardt)]], While far from empty, is the most barren feeling. 
 
